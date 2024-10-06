@@ -70,7 +70,7 @@ header {
     justify-content: center;
     align-items: center;
     margin-right: 50px;
-    background-color: black;
+    background: black;
     width: 100%;
     word-wrap: break-word; /* Permite a quebra de linha se o texto ultrapassar o limite */
 }
