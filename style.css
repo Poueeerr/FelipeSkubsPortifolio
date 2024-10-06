@@ -63,6 +63,17 @@ header {
     font-size: 25px;
 }
 
+.textP {
+    font-family: "Passion One", sans-serif;
+    font-size: 30px;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    background-color: black;
+    width: 100%;
+    word-wrap: break-word; /* Permite a quebra de linha se o texto ultrapassar o limite */
+}
 
 .text {
     font-family: "Passion One", sans-serif;
@@ -206,3 +217,5 @@ footer{
 html {
     scroll-behavior: smooth;
 }
+
+
